@@ -326,7 +326,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ff99ff;
+		color: #ffffff;
 	}
 
 	blockquote {
@@ -3353,7 +3353,7 @@ input, select, textarea {
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: #ff00ff;
+			color: #ffffff;
 		}
 
 		#intro blockquote {
